@@ -31,7 +31,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PolymorphismeApp">
+    <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManagerApp" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersonApp" />
       <module name="OOP" />
@@ -39,8 +46,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolymorphismeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismeApp" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShapeApp" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolymorphismeApp" />
+        <item itemvalue="Application.ShapeApp" />
+        <item itemvalue="Application.ManagerApp" />
         <item itemvalue="Application.PersonApp" />
       </list>
     </recent_temporary>
