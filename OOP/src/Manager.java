@@ -1,4 +1,5 @@
 class Manager extends Employee {
+    // String name // jika kita mendeklarasikan seperti ini maka akan terjadi variable hiding.
     String company;
 
     Manager(String name){

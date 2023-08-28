@@ -18,6 +18,14 @@ public class PolymorphismeApp {
     }
 
     static void sayHello(Employee employee) {
-        System.out.println("Hello " + employee.name);
+        if(employee instanceof VicePresident) {
+            // bisa langsung casting juga
+            VicePresident vicePresident = (VicePresident) employee;
+            System.out.println("Hello vp " + vicePresident.name);
+        } else if(employee instanceof Manager) {
+            System.out.println("Hello Manager " + employee.name);
+        } else {
+            System.out.println("hello employee " + employee.name);
+        }
     }
 }
