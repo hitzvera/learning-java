@@ -14,6 +14,7 @@
         <option value="Record" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -33,12 +34,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.StackTraceApp">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\OOP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReflectionApp">
     <configuration name="DatabaseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mujahid.application.DatabaseApp" />
       <module name="OOP" />
@@ -52,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mujahid.application.EnumApp" />
+    <configuration name="ReadApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mujahid.application.ReadApp" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecordApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mujahid.application.RecordApp" />
+    <configuration name="ReflectionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mujahid.application.ReflectionApp" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReflectionApp" />
+        <item itemvalue="Application.ReadApp" />
         <item itemvalue="Application.StackTraceApp" />
         <item itemvalue="Application.DatabaseApp" />
         <item itemvalue="Application.ValidationApp" />
-        <item itemvalue="Application.EnumApp" />
-        <item itemvalue="Application.RecordApp" />
       </list>
     </recent_temporary>
   </component>
