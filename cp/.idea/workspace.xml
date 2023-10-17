@@ -34,9 +34,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.SubstringComparasions">
-    <configuration name="BigDecimalinJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.BigDecimalinJava" />
+  <component name="RunManager" selected="Application.JavaRegex">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.Anagram" />
       <module name="cp" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lexicographically" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.Lexicographically" />
+    <configuration name="JavaRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.JavaRegex" />
       <module name="cp" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.Substring" />
+    <configuration name="JavaStringTokens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.JavaStringTokens" />
       <module name="cp" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubstringComparasions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.SubstringComparasions" />
+    <configuration name="Palindorm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.Palindorm" />
       <module name="cp" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowableInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.ThrowableInJava" />
+    <configuration name="PatternSyntaxChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.PatternSyntaxChecker" />
       <module name="cp" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubstringComparasions" />
-        <item itemvalue="Application.Substring" />
-        <item itemvalue="Application.Lexicographically" />
-        <item itemvalue="Application.BigDecimalinJava" />
-        <item itemvalue="Application.ThrowableInJava" />
+        <item itemvalue="Application.JavaRegex" />
+        <item itemvalue="Application.PatternSyntaxChecker" />
+        <item itemvalue="Application.JavaStringTokens" />
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.Palindorm" />
       </list>
     </recent_temporary>
   </component>
