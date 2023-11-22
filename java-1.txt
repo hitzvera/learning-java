@@ -1,0 +1,44 @@
+java sources
+
+1. online courses first (udemy)
+2. books 
+
+JRE (java runtime environment)
+- a package that needed to run java application
+
+JDK (java development kit)
+- tools that needed to build/develop java application
+JDK is also provide JRE.
+
+JVM (java virtual machine)
+jvm melakukan 3 fase write, compile and run
+
+1. writing java application is done by we a programmer.
+2. compile. is done by javac (java compiler) usually included in JDK. resulting 
+bytecode.
+3. in running phase, JMV execute the bytecode.
+
+nb: what is differenciate between compile and interpreted.
+pros compile language
+1. private 
+2. faster execution
+3. fully optimized
+cons compile language
+1. no portability (when we make an executable, only 1 system operation)
+2. extra compilation step (longger development time)
+
+props interpret language
+1. portable (because we provide source code not exe, as long as have interpreter)
+2. easy debugging (interpret check line by line)
+cons 
+1. requires interpreter
+2. slower (the translation happen every time)
+3. public code (if others want to run your application, you need to provide the source code).
+
+hybrid approach
+1. private source code, because when it compiled the result is not directly executable.
+but bytecode that can run in any local machine as long as they have interpreter (JRE, more specific JVM).
+2. 
+
+
+
